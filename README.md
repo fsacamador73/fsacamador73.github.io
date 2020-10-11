@@ -1,2 +1,2 @@
-# fsacamador73.github.io
-web design pages repository
+# web-design-challenge
+Homework for web design
